@@ -1,0 +1,17 @@
+D:\Projects\TestCompatibility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Buffers.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Memory.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Text.Json.dll
+D:\Projects\TestCompatibility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\TestCompatibility\bin\Debug\System.ValueTuple.dll
+D:\Projects\TestCompatibility\obj\Debug\BGKiller.csproj.AssemblyReference.cache
+D:\Projects\TestCompatibility\obj\Debug\BGKiller.csproj.CoreCompileInputs.cache
+D:\Projects\TestCompatibility\obj\Debug\BGKiller.csproj.CopyComplete
+D:\Projects\TestCompatibility\bin\Debug\BGKiller.exe.config
+D:\Projects\TestCompatibility\bin\Debug\BGKiller.exe
+D:\Projects\TestCompatibility\bin\Debug\BGKiller.pdb
+D:\Projects\TestCompatibility\obj\Debug\BGKiller.exe
+D:\Projects\TestCompatibility\obj\Debug\BGKiller.pdb
